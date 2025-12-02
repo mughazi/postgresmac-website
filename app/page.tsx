@@ -5,7 +5,7 @@ const COMING_SOON = true;
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex items-center justify-center">
+    <div className="flex-1 min-h-screen flex items-center justify-center">
       <div className="text-center px-6 max-w-3xl">
         {/* Top Image */}
         <div className="flex justify-center">
