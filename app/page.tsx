@@ -49,7 +49,7 @@ export default function Home() {
           </div>
 
           {/* Tagline */}
-          <p className="text-2xl md:text-4xl font-semibold max-w-xl mx-auto text-gray-900 dark:text-gray-100">
+          <p className="text-2xl md:text-4xl font-semibold max-w-lg mx-auto text-gray-900 dark:text-gray-100">
             Lightweight and native PostgreSQL client for Mac.
           </p>
         </section>
