@@ -67,7 +67,7 @@ export function Highlights() {
               <h3 className="text-base md:text-lg font-semibold">
                 {highlight.title}
               </h3>
-              <p className="text-sm">{highlight.description}</p>
+              <p className="text-sm opacity-50">{highlight.description}</p>
             </div>
           </div>
         </div>
